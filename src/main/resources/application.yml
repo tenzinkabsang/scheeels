@@ -1,6 +1,9 @@
 server:
   port: 8000
 
+products:
+  pageSize: 3
+
 spring:
   application:
     name: Scheeels
